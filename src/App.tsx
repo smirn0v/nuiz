@@ -83,6 +83,8 @@ function App() {
   }
 
   const handleMouseUpEvent = (e: MouseEvent<HTMLDivElement>) => {
+    e.currentTarget.style.backgroundColor = 'transparent';
+    
     var userAnswersStr = localStorage.getItem(quiz!.name)
     
     if(userAnswersStr == null) {
