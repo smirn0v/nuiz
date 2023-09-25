@@ -1,8 +1,6 @@
 {
   "questions": [
     {
-      "category": "Простые",
-      "items": [
         {
           "question": "В какой стране родился Сергей Рахманинов?",
           "answers":[
@@ -33,11 +31,8 @@
           ],
           "correctAnswerIndex": 2
         }
-      ]
     },
     {
-      "category": "Средней сложности",
-      "items": [
         {
           "question": "Как называется самый известный концерт Рахманинова?",
           "answers":[
@@ -68,11 +63,8 @@
           ],
           "correctAnswerIndex": 1
         }
-      ]
     },
     {
-      "category": "Сложные",
-      "items": [
         {
           "question": "Какое произведение Рахманинова написано на стихи А.С. Пушкина?",
           "answers":[
@@ -103,11 +95,8 @@
           ],
           "correctAnswerIndex": 1
         }
-      ]
     },
     {
-      "category": "Экспертные",
-      "items": [
         {
           "question": "Как называется последнее произведение Рахманинова?",
           "answers":[
@@ -138,7 +127,6 @@
           ],
           "correctAnswerIndex": 3
         }
-      ]
     }
   ]
 }
