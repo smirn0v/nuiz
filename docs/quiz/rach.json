@@ -1,126 +1,169 @@
 {
-  "questions": [
-        {
-          "question": "В какой стране родился Сергей Рахманинов?",
-          "answers":[
-            "Россия",
-            "Украина",
-            "Беларусь",
-            "Германия"
-          ],
-          "correctAnswerIndex": 0
-        },
-        {
-          "question": "Каким инструментом владел Сергей Рахманинов?",
-          "answers":[
-            "Скрипка",
-            "Фортепиано",
-            "Гитара",
-            "Флейта"
-          ],
-          "correctAnswerIndex": 1
-        },
-        {
-          "question": "В каком жанре музыки работал Сергей Рахманинов?",
-          "answers":[
-            "Поп",
-            "Рок",
-            "Классическая",
-            "Джаз"
-          ],
-          "correctAnswerIndex": 2
-        }
-    },
-    {
-        {
-          "question": "Как называется самый известный концерт Рахманинова?",
-          "answers":[
-            "Концерт №1",
-            "Концерт №2",
-            "Концерт №3",
-            "Концерт №4"
-          ],
-          "correctAnswerIndex": 2
-        },
-        {
-          "question": "Какое произведение Рахманинова стало основой для песни 'All by Myself'?",
-          "answers":[
-            "Концерт №2",
-            "Симфония №2",
-            "Прелюдия до-диез минор",
-            "Этюд-картина"
-          ],
-          "correctAnswerIndex": 0
-        },
-        {
-          "question": "В каком году Рахманинов покинул Россию?",
-          "answers":[
-            "1917",
-            "1918",
-            "1919",
-            "1920"
-          ],
-          "correctAnswerIndex": 1
-        },
-        {
-          "question": "Какое произведение Рахманинова написано на стихи А.С. Пушкина?",
-          "answers":[
-            "Романс 'Я жду тебя'",
-            "Романс 'Не верь мне, друг!'",
-            "Романс 'О, не грусти!'",
-            "Романс 'Здесь хорошо'"
-          ],
-          "correctAnswerIndex": 1
-        },
-        {
-          "question": "Какой из этих композиторов был учителем Рахманинова?",
-          "answers":[
-            "Петр Чайковский",
-            "Николай Римский-Корсаков",
-            "Александр Скрябин",
-            "Антон Аренский"
-          ],
-          "correctAnswerIndex": 3
-        },
-        {
-          "question": "Как называется оперное произведение Рахманинова?",
-          "answers":[
-            "Евгений Онегин",
-            "Алеко",
-            "Борис Годунов",
-            "Пиковая дама"
-          ],
-          "correctAnswerIndex": 1
-        },
-        {
-          "question": "Как называется последнее произведение Рахманинова?",
-          "answers":[
-            "Симфонические танцы",
-            "Рапсодия на тему Паганини",
-            "Соната для виолончели и фортепиано",
-            "Концерт для фортепиано №4"
-          ],
-          "correctAnswerIndex": 0
-        },
-        {
-          "question": "В каком году был написан 'Концерт №2' Рахманинова?",
-          "answers":[
-            "1900",
-            "1901",
-            "1902",
-            "1903"
-          ],
-          "correctAnswerIndex": 1
-        },
-        {
-          "question": "В каком городе умер Сергей Рахманинов?",
-          "answers":[
-            "Нью-Йорк",
-            "Лос-Анджелес",
-            "Сан-Франциско",
-            "Беверли-Хиллз"
-          ],
-          "correctAnswerIndex": 3
-        }
-  ]
+	"questions": [{
+			"question": "What was Sergei Rachmaninoff's profession?",
+			"answers": [
+				"Painter",
+				"Composer",
+				"Scientist",
+				"Actor"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"question": "Where was Sergei Rachmaninoff born?",
+			"answers": [
+				"Germany",
+				"USA",
+				"Russia",
+				"France"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"question": "What is the name of Rachmaninoff's most famous composition?",
+			"answers": [
+				"Moonlight Sonata",
+				"Prelude in C-sharp minor",
+				"The Nutcracker",
+				"Symphony No. 5"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"question": "What instrument did Rachmaninoff play?",
+			"answers": [
+				"Violin",
+				"Piano",
+				"Flute",
+				"Drums"
+			],
+			"correctAnswerIndex": 1
+		},
+
+		{
+			"question": "In what year did Rachmaninoff emigrate to the United States?",
+			"answers": [
+				"1917",
+				"1921",
+				"1910",
+				"1925"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is the title of Rachmaninoff's first symphony?",
+			"answers": [
+				"The Bells",
+				"Symphony No. 1",
+				"Isle of the Dead",
+				"Rhapsody on a Theme of Paganini"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"question": "What is the name of the condition that Rachmaninoff was believed to have, which gave him an extraordinary reach at the piano?",
+			"answers": [
+				"Marfan Syndrome",
+				"Ehlers-Danlos Syndrome",
+				"Arachnodactyly",
+				"Osteogenesis Imperfecta"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What was the name of the estate where Rachmaninoff was born?",
+			"answers": [
+				"Ivanovka",
+				"Oneg",
+				"Semyonovo",
+				"Novgorod"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"level": "hard",
+			"items": [{
+					"question": "What was the name of Rachmaninoff's cousin who was also a famous composer?",
+					"answers": [
+						"Alexander Scriabin",
+						"Nikolai Rimsky-Korsakov",
+						"Alexander Glazunov",
+						"Pyotr Ilyich Tchaikovsky"
+					],
+					"correctAnswerIndex": 0
+				},
+				{
+					"question": "What is the name of the piece that Rachmaninoff composed for his graduation from the Moscow Conservatory?",
+					"answers": [
+						"Piano Concerto No. 1",
+						"Rhapsody on a Theme of Paganini",
+						"Aleko",
+						"Symphony No. 2"
+					],
+					"correctAnswerIndex": 2
+				},
+				{
+					"question": "Who was the conductor at the disastrous premiere of Rachmaninoff's Symphony No. 1?",
+					"answers": [
+						"Alexander Glazunov",
+						"Nikolai Rimsky-Korsakov",
+						"Pyotr Ilyich Tchaikovsky",
+						"Sergei Rachmaninoff"
+					],
+					"correctAnswerIndex": 0
+				},
+				{
+					"question": "What was the name of Rachmaninoff's wife?",
+					"answers": [
+						"Natalia Satina",
+						"Anna Yesipova",
+						"Elisaveta Petrovna",
+						"Maria Siloti"
+					],
+					"correctAnswerIndex": 0
+				}
+			]
+		},
+		{
+			"question": "What was the name of the hypnotherapist who helped Rachmaninoff overcome his depression and writer's block?",
+			"answers": [
+				"Nikolai Dahl",
+				"Sigmund Freud",
+				"Carl Jung",
+				"Ivan Pavlov"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is the name of the choral symphony composed by Rachmaninoff, based on a poem by Edgar Allan Poe?",
+			"answers": [
+				"The Bells",
+				"The Raven",
+				"Annabel Lee",
+				"The Fall of the House of Usher"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is the name of the piece that Rachmaninoff considered his best composition?",
+			"answers": [
+				"Symphony No. 2",
+				"Piano Concerto No. 3",
+				"Rhapsody on a Theme of Paganini",
+				"All-Night Vigil"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"question": "What was the last piece of music Rachmaninoff played in public before his death?",
+			"answers": [
+				"Piano Concerto No. 2",
+				"Prelude in C-sharp minor",
+				"Rhapsody on a Theme of Paganini",
+				"Piano Concerto No. 3"
+			],
+			"correctAnswerIndex": 2
+		}
+	]
+
 }
